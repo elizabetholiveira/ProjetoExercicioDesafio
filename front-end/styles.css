@@ -66,3 +66,18 @@ section {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+.btn-add {
+    position: fixed;
+    height: 80px;
+    width: 80px;
+    right: 10px;
+    bottom: 10px;
+    background-color: #e3ece0;
+    padding: 15px;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid #bac6b6;
+    color: #282b24;
+}
