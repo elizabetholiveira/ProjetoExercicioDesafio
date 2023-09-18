@@ -1,1 +1,1 @@
-/* INSERT INTO TB_RECIPES (image, title, ingredients, steps) VALUES ('https://www.mundoboaforma.com.br/wp-content/uploads/2020/01/agua-com-acucar.jpg', 'água com açúcar', 'água, açúcar, copo, colher', 'coloque água no copo, adicione o açúcar, mexa bem'); */
+INSERT INTO TB_RECIPES (image, title, ingredients, steps) VALUES ('https://www.mundoboaforma.com.br/wp-content/uploads/2020/01/agua-com-acucar.jpg', 'água com açúcar', 'água, açúcar, copo, colher', 'coloque água no copo, adicione o açúcar, mexa bem');
